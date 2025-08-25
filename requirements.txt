@@ -10,6 +10,7 @@ attrs==25.3.0
 babel==2.17.0
 beautifulsoup4==4.13.4
 bleach==6.2.0
+blinker==1.9.0
 certifi==2025.7.14
 cffi==1.17.1
 charset-normalizer==3.4.2
@@ -25,6 +26,7 @@ distlib==0.4.0
 executing==2.2.0
 fastjsonschema==2.21.1
 filelock==3.18.0
+Flask==3.1.2
 flatbuffers==25.2.10
 fonttools==4.59.1
 fqdn==1.5.1
@@ -42,6 +44,7 @@ ipython==9.4.0
 ipython_pygments_lexers==1.1.1
 ipywidgets==8.1.7
 isoduration==20.11.0
+itsdangerous==2.2.0
 jedi==0.19.2
 Jinja2==3.1.6
 joblib==1.5.1
@@ -103,8 +106,6 @@ python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
 python-slugify==8.0.4
 pytz==2025.2
-pywin32==311
-pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==27.0.0
 referencing==0.36.2
